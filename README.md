@@ -5,12 +5,10 @@
 
 <p></p>
 
-<h3> Yazılım Kalitesi Ölçümü Neden Gerekli </h3>
+<h2> Yazılım Kalitesi Ölçümü Neden Gerekli </h2>
 
 
-<p> Yazılım hayatımızın her alanında var neredeyse hayatımızı kontrol ediyor.</p>
-<p> Yazılımdan beklentiler gün geçtikçe artıyor ve müşteri istekleri ve talepleri de artmaktadır </p>
-<p> Önlem alınmadığında yazılım maliyetleri artıyor.</p>
+<p> Yazılım hayatımızın her alanında var neredeyse hayatımızı kontrol ediyor.Yazılımdan beklentiler gün geçtikçe artıyor ve müşteri istekleri ve talepleri de artmaktadır. Önlem alınmadığında yazılım maliyetleri artıyor.</p>
 
 <p> Yukarıda nedenlerden dolayı:</p>
 
@@ -19,7 +17,7 @@
 
 
 
-<h3>Yazılım Ölçmesi Niçin Kullanılır</h3>
+<h2>Yazılım Ölçmesi Niçin Kullanılır</h2>
 
 <p><h3>Durum Belirleme:</h3> Yapıları yazılımın kalite düzeyine göre yeni sürüm çıkmaya hazır mı ? </p>
 <p><h3>iyileştirme:</h3> Firma yaptığı işi iyileştirebilecek ne gibi veriler elde edebilir ?</p>
