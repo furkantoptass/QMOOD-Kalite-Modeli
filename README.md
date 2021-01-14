@@ -21,16 +21,16 @@
 
 <h3>Yazılım Ölçmesi Niçin Kullanılır</h3>
 
-<p><strong>Durum Belirleme:</strong> Yapıları yazılımın kalite düzeyine göre yeni sürüm çıkmaya hazır mı ? </p>
-<p><strong>iyileştirme:</strong> Firma yaptığı işi iyileştirebilecek ne gibi veriler elde edebilir ?</p>
-<p><strong>Kanıtlama:</strong> Firma müşterilerine ürününü  kaliteli olduğunu somut bir biçimde nadsıl gösterebilir ?</p>
-<p><strong>Kestirim/Öngörü:</strong> Ölçme ile yazılımın o anki durumu belirlendiği gibi sonraki projeler de yapılabilir. İleride sorun çıkma olasılıgı yüksek olan birimler önceden belirlenebilir mi ? </p>
-<p><strong>Karşılama:</strong> Müşteri hangi yazılımı alacağına nasıl karar verebilir ? </p>
+<p><h3>Durum Belirleme:</h3> Yapıları yazılımın kalite düzeyine göre yeni sürüm çıkmaya hazır mı ? </p>
+<p><h3>iyileştirme:</h3> Firma yaptığı işi iyileştirebilecek ne gibi veriler elde edebilir ?</p>
+<p><h3>Kanıtlama:</h3> Firma müşterilerine ürününü  kaliteli olduğunu somut bir biçimde nadsıl gösterebilir ?</p>
+<p><h3>Kestirim/Öngörü:</h3> Ölçme ile yazılımın o anki durumu belirlendiği gibi sonraki projeler de yapılabilir. İleride sorun çıkma olasılıgı yüksek olan birimler önceden belirlenebilir mi ? </p>
+<p><h3>Karşılama:</h3> Müşteri hangi yazılımı alacağına nasıl karar verebilir ? </p>
 
 <p></p>
 <p>Yukarıdaki gibi soruların cevaplarının alınmasına yardımcı olmak için Yazılım kalite ölçümü kullanılır</p>
 
-<h4>Hazılayanlar</h4>
+<h3>Hazılayanlar</h3>
 <p>Serdar ATEŞ</p>
 
 <p>Furkan TOPTAŞ</p>
