@@ -12,8 +12,7 @@
 
 <p> Yukarıda nedenlerden dolayı:</p>
 
-<p> Yazılım firmaları, istekleri karşılamak ve rekabetçş pazarda yer alabilmek için kalite kontrolüne gerek duyar.</p>
-<p> Yazılım müşterileri satın alacakları yazılımı seçmek ve kullandıkları yazılıma güvenebilmek için ölçmeye gerek duyar</p>
+<p> Yazılım firmaları, istekleri karşılamak ve rekabetçş pazarda yer alabilmek için kalite kontrolüne gerek duyar. Yazılım müşterileri satın alacakları yazılımı seçmek ve kullandıkları yazılıma güvenebilmek için ölçmeye gerek duyar</p>
 
 
 
@@ -29,6 +28,7 @@
 <p>Yukarıdaki gibi soruların cevaplarının alınmasına yardımcı olmak için Yazılım kalite ölçümü kullanılır</p>
 
 <h3>Hazılayanlar</h3>
+
 <p>Serdar ATEŞ</p>
 
 <p>Furkan TOPTAŞ</p>
